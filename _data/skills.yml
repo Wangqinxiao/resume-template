@@ -1,12 +1,4 @@
 # Skills
 # Donut design
-- skill: Donut design
-  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
-
-# Craft beer brewing
-- skill: Craft beer brewing
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
-
-# Family leadership
-- skill: Family leadership
-  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
+- skill: Web前端开发
+  description: 掌握Html、Css、JavaScript等Web前端开发基础；熟悉使用AngularJS、Angular2等MVC框架，BootStrap、Ionic1/2等UI组件，jQuery、Lodash等Js库；熟悉 HTTP/HTTPS 网络通信协议；熟悉Restful API调用方式；对前端工程化管理有一定的经验；

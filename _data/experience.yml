@@ -1,19 +1,22 @@
 # Jobs
 # Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+- company: 北京大学语言信息工程实验室
+  position: 考研英语移动自适应学习系统
+  duration: 2016.11 &mdash; 现在
+  summary: <b>项目简述：</b>该系统是北京大学语言信息工程系的科研项目，以克拉申的“i+1”输入理论为基础 ，人工智能和大数据相结合 ，精准定位用户学习水平， 专属智能老师，提供个性化的学习指导。应用商店搜索”英语方舟考研“。
+  summary1: 项目职责： 使用Hybrid APP混合开发技术，基于AngularJS 和 Ionic 进行 Ios 和 Android 客户端前端开发，使用Sass、grunt、node.js进行前端预处理、自动化构建和模块管理；参与产品功能与界面交互设计。
 
 # Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: 个人博客
+  position: <a href="http://blog.wangqinxiao.com/">blog.wangqinxiao.com</a>
+  duration:  2017.1 &mdash; 现在
+  summary: <b>项目简述：</b>借助Jekyll和Github Pages搭建的博客，记录个人成长心得。Github上查看<a href="https://github.com/Wangqinxiao/wangqinxiao.github.io">源码</a>。
+  summary1: 项目职责：负责设计、技术实现与内容维护。
 
 
 # Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+- company: 北京有序科技有限公司
+  position: Web端财务管理系统管有方
+  duration:  2016.3  &mdash; 2016.11
+  summary: <b>项目简述：</b>管有方系列产品是借助云计算、机器学习等顶尖技术开发的财务管理工具。管有方·企业版针对中小企业财税需求设计，以极其简便的操作流程，帮助零财务基础的用户实现流水账速记、资金账户管理、企业税务申报、移动报表查询等目标，帮助企业快速建立适合的财务管理系统。在线地址：<a href="app.guanplus.com">app.guanplus.com</a>。
+  summary1: 项目职责：基于Angular2，TypeScript，PrimNg，BootStrap，Sass实现Web前端组件与数据交互；参与产品功能与界面交互设计。

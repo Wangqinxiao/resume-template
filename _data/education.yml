@@ -1,6 +1,13 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: 硕士研究生，计算机技术
+  uni: 北京大学
+  year: 2014 &mdash; 2018
+  # awards: Quickest to fall asleep
+  # summary: If you had any meaningful roles at college, feel free to write about them here
+
+  # Degree
+- degree: 学士，翻译
+  uni: 西安外国语大学
+  year: 2010 &mdash; 2014
+  # awards: Quickest to fall asleep
+  # summary: If you had any meaningful roles at college, feel free to write about them here
